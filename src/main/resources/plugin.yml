@@ -1,0 +1,10 @@
+name: BeastSecurity
+version: '${project.version}'
+main: me.mraxetv.beastsecurity.BeastSecurity
+api-version: 1.13
+authors: [ MrAxeTv ]
+
+commands:
+  BeastSecurity:
+    aliases:
+      - bs
